@@ -26,6 +26,7 @@ My research focuses on drug discovery, single-cell analysis, protein-ligand dock
 ## Education
 - **Master of Information Science in Natural Language Processing**, Japan Advanced Institute of Science and Technology, 2015
 - **Bachelor of Computer Science**, University of Science, 2012
+- **Scholar** https://scholar.google.com/citations?user=hvjCul4AAAAJ&hl=en
 
 ## Publications
 
