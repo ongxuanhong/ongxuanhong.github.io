@@ -5,11 +5,12 @@
 layout: home
 ---
 
-# Welcome to My GitHub Profile!
+# Welcome to My Research Page!
 
-![Header Image](https://your-image-url-here.com/header_image.png)
+![Header Image](images/jaist_uni.jpeg)
 
-Hi, I'm [Your Name]! 👋 I'm a passionate software engineer and open-source enthusiast.
+Hi, I'm **[Hong]**! 👋 I'm passionate about applying state-of-the-art Machine Learning methods and Big Data Advanced Analytics to solve challenging problems related to Healthcare & Life Science, Digital marketing, Fin-tech, Digital transformation, and Engineering.
+My research focuses on drug discovery, single-cell analysis. I am passionate about using computational methods to understand complex biological systems and contribute to advancements in health and medicine.
 
 ## 🚀 About Me
 - 💻 I love developing new technologies.
@@ -19,10 +20,7 @@ Hi, I'm [Your Name]! 👋 I'm a passionate software engineer and open-source ent
 - 💬 Ask me about: [Your Expertise or Interests].
 
 ## 🛠️ Technologies and Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🗂️ My Projects
@@ -36,11 +34,60 @@ Hi, I'm [Your Name]! 👋 I'm a passionate software engineer and open-source ent
 - [Personal Blog](https://yourblog.com): Check out my blog.
 
 ## 📊 GitHub Stats
-![Your Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![ongxuanhong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ongxuanhong&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ongxuanhong&layout=compact)
 
 *These stats are powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+
+## Research Interests
+
+- **Genomic Data Analysis:** Leveraging computational tools to analyze high-throughput sequencing data.
+- **Machine Learning in Bioinformatics:** Applying machine learning techniques to solve biological problems.
+- **Molecular Dynamics Simulations:** Studying the behavior of biomolecules through simulations.
+- **Drug Discovery:** Computational approaches to identify and optimize potential drug candidates.
+
+## Education
+
+- **PhD in Bioinformatics**, [University Name], [Year Started] - Present
+- **Master of Science in Bioinformatics**, [University Name], [Year Completed]
+- **Bachelor of Science in Biology**, [University Name], [Year Completed]
+
+## Publications
+
+1. **Title of Your Paper**, *Journal Name*, [Year]. [DOI or Link](#)
+2. **Title of Your Paper**, *Journal Name*, [Year]. [DOI or Link](#)
+3. **Title of Your Paper**, *Journal Name*, [Year]. [DOI or Link](#)
+
+## Projects
+
+### 1. Project Title 1
+
+**Description:** A brief description of this project, its goals, and its significance.
+
+**Repository:** [GitHub Link](#)
+
+### 2. Project Title 2
+
+**Description:** A brief description of this project, its goals, and its significance.
+
+**Repository:** [GitHub Link](#)
+
+## Skills & Tools
+
+- **Programming Languages:** Python, R, Java, C++
+- **Bioinformatics Tools:** BLAST, Bowtie, GATK, Bioconductor
+- **Data Analysis:** Pandas, NumPy, Scikit-Learn, TensorFlow
+- **Visualization:** Matplotlib, Seaborn, ggplot2
+- **Version Control:** Git, GitHub
+
+## Contact
+
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](#)
+- **Twitter:** [Your Twitter Handle](#)
+- **GitHub:** [Your GitHub Profile](#)
 
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -48,3 +95,7 @@ Hi, I'm [Your Name]! 👋 I'm a passionate software engineer and open-source ent
 - [Post 2](https://yourblog.com/post2): A brief description of blog post 2.
 - [Post 3](https://yourblog.com/post3): A brief description of blog post 3.
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+Thank you for visiting my page! Feel free to reach out if you have any questions or would like to collaborate.
