@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Stay hungry, stay foolish. 🚀
-
 ![Header Image](images/jaist_uni.jpeg)
 
 Hi, I'm **Hong**! 👋 I'm passionate about applying state-of-the-art Machine Learning methods and Big Data Advanced Analytics to solve challenging problems related to Healthcare & Life Science.
