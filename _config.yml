@@ -14,18 +14,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ông Xuân Hồng
-email: hong@trustingsocial.com
+email: ongxuanhong@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm passionate about applying state-of-the-art Machine Learning
+  methods and Big Data Advanced Analytics to solve challenging
+  problems related to Healthcare & Life Science, Digital marketing,
+  Fin-tech, Digital transformation, and Engineering.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ongxuanhong
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
