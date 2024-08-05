@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Welcome to My Homepage!
+# Stay hungry, stay foolish. 🚀
 
 ![Header Image](images/jaist_uni.jpeg)
 
