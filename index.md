@@ -5,41 +5,18 @@
 layout: home
 ---
 
-# Welcome to My Research Page!
+# Welcome to My Homepage!
 
 ![Header Image](images/jaist_uni.jpeg)
 
-Hi, I'm **[Hong]**! 👋 I'm passionate about applying state-of-the-art Machine Learning methods and Big Data Advanced Analytics to solve challenging problems related to Healthcare & Life Science, Digital marketing, Fin-tech, Digital transformation, and Engineering.
-My research focuses on drug discovery, single-cell analysis. I am passionate about using computational methods to understand complex biological systems and contribute to advancements in health and medicine.
+Hi, I'm **Hong**! 👋 I'm passionate about applying state-of-the-art Machine Learning methods and Big Data Advanced Analytics to solve challenging problems related to Healthcare & Life Science.
+My research focuses on drug discovery, single-cell analysis, protein-ligand docking. I am passionate about using computational methods to understand complex biological systems and contribute to advancements in health and medicine.
 
 ## 🚀 About Me
-- 💻 I love developing new technologies.
-- 🌱 Currently learning: [New Technology or Topic].
-- 👯 I'm looking to collaborate on exciting projects.
-- 🤔 Always eager to learn and discuss innovative ideas.
-- 💬 Ask me about: [Your Expertise or Interests].
-
-## 🛠️ Technologies and Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-## 🗂️ My Projects
-- [Project 1](https://github.com/yourusername/project1): Brief description of Project 1.
-- [Project 2](https://github.com/yourusername/project2): Brief description of Project 2.
-- [Project 3](https://github.com/yourusername/project3): Brief description of Project 3.
-
-## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile): Find me on LinkedIn.
-- [Twitter](https://twitter.com/yourusername): Follow me on Twitter.
-- [Personal Blog](https://yourblog.com): Check out my blog.
-
-## 📊 GitHub Stats
-![ongxuanhong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ongxuanhong&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ongxuanhong&layout=compact)
-
-*These stats are powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
+- 💻 **An engineer** who love developing new technologies.
+- 🤔 **A scientist** who always eager to learn and discuss innovative ideas.
+- 👯 **A team player** who's looking to collaborate on exciting projects.
+- 🌱 Currently learning: Bioinformatics. 
 
 ## Research Interests
 
@@ -49,52 +26,54 @@ My research focuses on drug discovery, single-cell analysis. I am passionate abo
 - **Drug Discovery:** Computational approaches to identify and optimize potential drug candidates.
 
 ## Education
-
-- **PhD in Bioinformatics**, [University Name], [Year Started] - Present
-- **Master of Science in Bioinformatics**, [University Name], [Year Completed]
-- **Bachelor of Science in Biology**, [University Name], [Year Completed]
+- **Master of Information Science in Natural Language Processing**, Japan Advanced Institute of Science and Technology, 2015
+- **Bachelor of Computer Science**, University of Science, 2012
 
 ## Publications
 
-1. **Title of Your Paper**, *Journal Name*, [Year]. [DOI or Link](#)
-2. **Title of Your Paper**, *Journal Name*, [Year]. [DOI or Link](#)
-3. **Title of Your Paper**, *Journal Name*, [Year]. [DOI or Link](#)
+1. **Ensemble learning using traditional machine learning and deep neural network for diagnosis of Alzheimer’s disease**, *IBRO Neuroscience Reports*, 2022. [DOI](https://doi.org/10.1016/j.ibneur.2022.08.010)
+2. **A Machine Learning Framework Based on Extreme Gradient Boosting for Intelligent Alzheimer’s Disease Diagnosis Using Structure MRI**, *8th International Conference on the Development of Biomedical Engineering*, 2022. [DOI](https://doi.org/10.1007/978-3-030-75506-5_66)
+3. **Reranking CCG parser for Jazz chord sequences**, *Eighth International Conference on Knowledge and Systems Engineering*, 2016. [DOI](https://doi.org/10.1109/KSE.2016.7758054)
 
-## Projects
 
-### 1. Project Title 1
+## 🗂️ My Projects
+- [Yolov10 Working safety monitoring](https://github.com/ongxuanhong/yolov10-working-safety-monitoring)
+- [RAG: QA with PDF files](https://github.com/ongxuanhong/rag-qa-with-pdf-files)
+- [Spam text classification](https://github.com/ongxuanhong/spam-text-classification)
+- [Image retrieval](https://github.com/ongxuanhong/image-retrieval)
+- [Depth image estimation](https://github.com/ongxuanhong/depth-image-estimation)
 
-**Description:** A brief description of this project, its goals, and its significance.
+## 🛠️ Technologies and Tools
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-**Repository:** [GitHub Link](#)
+- **Programming Languages:** Python, C++, R
+- **Machine Learning Frameworks:** PyTorch, TensorFlow, Scikit-learn
+- **Medical Imaging Tools:** FreeSurfer, ITK-SNAP, ANTs
+- **Data Analysis and Visualization:** Pandas, NumPy, Matplotlib
+- **Big Data Technologies:** Apache Spark, Hadoop
+- **DevOps and MLOps:** Docker, Kubernetes, CI/CD Pipelines (GitHub Actions, Jenkins) Cloud Platforms: AWS, Google Cloud Platform, Azure
 
-### 2. Project Title 2
 
-**Description:** A brief description of this project, its goals, and its significance.
+## 📊 GitHub Stats
+![ongxuanhong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ongxuanhong&show_icons=true&theme=default)
 
-**Repository:** [GitHub Link](#)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ongxuanhong&layout=compact)
 
-## Skills & Tools
+*These stats are powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-- **Programming Languages:** Python, R, Java, C++
-- **Bioinformatics Tools:** BLAST, Bowtie, GATK, Bioconductor
-- **Data Analysis:** Pandas, NumPy, Scikit-Learn, TensorFlow
-- **Visualization:** Matplotlib, Seaborn, ggplot2
-- **Version Control:** Git, GitHub
-
-## Contact
-
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Twitter:** [Your Twitter Handle](#)
-- **GitHub:** [Your GitHub Profile](#)
-
-## ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Post 1](https://yourblog.com/post1): A brief description of blog post 1.
-- [Post 2](https://yourblog.com/post2): A brief description of blog post 2.
-- [Post 3](https://yourblog.com/post3): A brief description of blog post 3.
-<!-- BLOG-POST-LIST:END -->
+## 🔗 Connect with Me
+- [Email](mailto:ongxuanhong@gmail.com): Shoot me an email.
+- [LinkedIn](https://www.linkedin.com/in/ongxuanhong/): Find me on LinkedIn.
+- [Facebook](https://www.facebook.com/ong.x.hong): Follow me on Facebook.
+- [Personal Blog](https://medium.com/@ongxuanhong): Check out my blog.
 
 ---
 
