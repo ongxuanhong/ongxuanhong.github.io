@@ -47,6 +47,68 @@ My research focuses on drug discovery, single-cell analysis, machine Learning in
 - [Image retrieval](https://github.com/ongxuanhong/image-retrieval)
 - [Depth image estimation](https://github.com/ongxuanhong/depth-image-estimation)
 
+## Industrial experiences
+**EPAM Vietnam**
+
+*Lead Machine Learning Engineer (Nov 2022 - Now)*
+- Taking care of organizational units by leading people towards, and enabling effective achievement of business goals.
+- Applying new technologies, and optimizing MLOps practices to deliver production-quality of Machine Learning Models in an efficient way on cloud data platform (Azure, AWS, GCP) also on-premise.
+- Responsible for standardized unit tests, develop CI/CD pipelines, scripts to automate MLOps pipelines and APIs deployment,
+- Big Data computation optimization, experiment tracking, data drift, and model drift detection.
+- Major and interests research: Natural language processing, Computer Vision and Data mining.
+- Key business domain: Healthcare & Life science, Digital marketing, Fin-tech, Digital transformation.
+
+**HSV Group**
+
+*Senior Machine Learning Engineer (Nov 2021 - Nov 2022)*
+- Building and leading Data Science team for the fast-growing business.
+- Built data pipelines to ingest data from multiple sources (ERP, CRM, Ecommerce, Flat files) to the Data platform and Data warehouse.
+- Responsible for collecting data (POS stores, marketplace, ecommerce), putting it into the Data warehouse, preparing master data for references, ABC products analytics, and building forecasting models for the next 2 months.
+- Developed Flask API for system integration with partners.
+- Communicated with non-tech departments to align language across the team: On self-availability, Stock cover month, safety
+stock, lead time, risk management, evaluation metrics RMAPE, manage expectations, and deliver high-quality data products.
+
+**Pizza 4Ps**
+
+*Senior Machine Learning Engineer (April 2021 - Nov 2021)*
+- Develop recommender system APIs (Flask, PostgreSQL, Redis, Spark, GCS).
+- Develop and maintain data platform from multiple SaaS (Salesforce, Tablecheck, SAP, etc).
+- Conduct data analyst for sales forecasting, reservation, and association rules mining.
+- Working on BI visualization tools (Google data studio, Redash, Metabase, etc).
+- Cloud services: GCP, Azure, AWS.
+
+**Trusting Social**
+
+*Data Scientist (Sep 2017 – Feb 2021)*
+- Developed feature engineering for credit scoring using Apache Spark.
+- Tuned machine learning models.
+- Optimized computation on Spark clusters.
+- Developed data pipelines for calculating and combining features.
+- Crawled additional data to enrich predictive models.
+- Training Research Engineers members.
+
+**Knorex**
+
+*Data Engineer (Mar 2016 – Aug 2017)*
+- Developed dashboard reports for analyzing impressions, clickthrough rate, and conversion rate of advertising campaigns.
+- Ingested stream data to track page views and click events.
+- Developed APIs for data management.
+
+## Honors and Awards
+
+**Speaker - We are community**
+
+*EPAM (May 2023 - Now)*
+- Maximizing Data Operations and Collaboration using the Feast Feature Store, Mar 2024 ([link](https://wearecommunity.io/events/maximizing-data-operations-and-collaboration-using-the-feast-feature-store/talks/72926))
+- Dagster - DataOps and MLOps for Machine Learning Engineers, Aug 2023 ([link](https://wearecommunity.io/events/dagster-dataops-and-mlops-for-machine-learning-engineers/talks/58193))
+- DBT (Data Build Tool) an ELT approach for Advanced Analytics, May 2023 ([link](https://wearecommunity.io/events/dbt-data-build-tool-an-elt-approach-for-advanced-analytics/talks/53742))
+
+**Digital Innovation and Retail Transformation Project**
+
+*DEG - Deutsche Investitions- und Entwicklungsgesellschaft (Aug 2022)*
+- For the successful completion of the Digital Innovation and Retail Transformation Project, a collaboration of HSVG, DEG, and
+Mekong Capital, from Nov 2021 to Aug 2022.
+
 ## Technologies and Tools
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
