@@ -10,6 +10,13 @@ layout: home
 Hi, I'm **Hong**! 👋 I'm passionate about applying state-of-the-art Machine Learning methods and Big Data Advanced Analytics to solve challenging problems related to Healthcare & Life Science.
 My research focuses on drug discovery, single-cell analysis, machine Learning in bioinformatics, and genomic data analysis. I am passionate about using computational methods to understand complex biological systems and contribute to advancements in health and medicine.
 
+## Connect with Me
+- [Email](mailto:ongxuanhong@gmail.com): Shoot me an email.
+- [Scholar](https://scholar.google.com/citations?user=hvjCul4AAAAJ&hl=en): Check out my Google Scholar profile.
+- [CV](docs/HongOng_CurriculumVitae.pdf): Download my CV.
+- [Facebook](https://www.facebook.com/ong.x.hong): Follow me on Facebook.
+- [Personal Blog](https://medium.com/@ongxuanhong): Check out my blog.
+
 ## About Me
 - **An engineer** who love developing new technologies.
 - **A scientist** who always eager to learn and discuss innovative ideas.
@@ -122,12 +129,6 @@ Mekong Capital, from Nov 2021 to Aug 2022.
 - **Data Analysis and Visualization:** Pandas, NumPy, Matplotlib.
 - **Big Data Technologies:** Apache Spark, Hadoop.
 - **DevOps and MLOps:** Docker, Kubernetes, CI/CD Pipelines (GitHub Actions, Jenkins) Cloud Platforms: AWS, Google Cloud Platform, Azure.
-
-## Connect with Me
-- [Email](mailto:ongxuanhong@gmail.com): Shoot me an email.
-- [LinkedIn](https://www.linkedin.com/in/ongxuanhong/): Find me on LinkedIn.
-- [Facebook](https://www.facebook.com/ong.x.hong): Follow me on Facebook.
-- [Personal Blog](https://medium.com/@ongxuanhong): Check out my blog.
 
 ---
 
