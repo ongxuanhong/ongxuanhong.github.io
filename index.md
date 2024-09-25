@@ -53,6 +53,8 @@ My research focuses on drug discovery, single-cell analysis, machine Learning in
 - [Spam text classification](https://github.com/ongxuanhong/spam-text-classification)
 - [Image retrieval](https://github.com/ongxuanhong/image-retrieval)
 - [Depth image estimation](https://github.com/ongxuanhong/depth-image-estimation)
+- [Sentiment analysis on IMDB dataset](https://github.com/ongxuanhong/nlp-sentiment-analysis-on-imdb-dataset)
+- [Heart disease prediction with ensemble learning](https://github.com/ongxuanhong/heart-disease-prediction-with-ensemble-learning)
 
 ## Industrial experiences
 **EPAM Vietnam**
