@@ -128,6 +128,7 @@ Mekong Capital, from Nov 2021 to Aug 2022.
 - **Programming Languages:** Python, Java, C++.
 - **Machine Learning Frameworks:** PyTorch, TensorFlow, Scikit-learn.
 - **Medical Imaging Tools:** FreeSurfer, ITK-SNAP, ANTs.
+- **Bioinformatics Tools:** RDKit, Deepchem, PyMOL, scverse (anndata, scanpy, scvi-tools, muon)..
 - **Data Analysis and Visualization:** Pandas, NumPy, Matplotlib.
 - **Big Data Technologies:** Apache Spark, Hadoop.
 - **DevOps and MLOps:** Docker, Kubernetes, CI/CD Pipelines (GitHub Actions, Jenkins) Cloud Platforms: AWS, Google Cloud Platform, Azure.
