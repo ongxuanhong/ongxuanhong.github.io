@@ -29,7 +29,7 @@ My research focuses on drug discovery, single-cell analysis, machine Learning in
 - **Genomic Data Analysis:** Leveraging computational tools to analyze high-throughput sequencing data.
 
 ## Education
-**Jan 2015 ~ Dec 2015**
+**Jan 2014 ~ Dec 2015**
 - Master of Information Science, Japan Advanced Institute of Science and Technology
 - Thesis advisor : Professor Nguyen Le Minh
 
