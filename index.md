@@ -39,6 +39,11 @@ My research focuses on drug discovery, single-cell analysis, machine Learning in
 
 ## Publications
 
+**2025**
+- **AI-driven Deep Learning Approach for Pan-Cancer Immune Profiling**, *MEDINFO 2025*
+- **Convolutional neural network-based artificial intelligence for immune subtype classification in pan-cancer**, *AACR 2025*
+- **C2GMatch: Leveraging Dual-View Cross-Guidance and Co-Guidance Framework for Semi-Supervised Cell Segmentation**, *2025 IEEE 6th International Conference on Image Processing, Applications and Systems (IPAS)*. [DOI](https://doi.org/10.1109/IPAS63548.2025.10924518)
+
 **2022**
 - **Ensemble learning using traditional machine learning and deep neural network for diagnosis of Alzheimer’s disease**, *IBRO Neuroscience Reports*. [DOI](https://doi.org/10.1016/j.ibneur.2022.08.010)
 - **A Machine Learning Framework Based on Extreme Gradient Boosting for Intelligent Alzheimer’s Disease Diagnosis Using Structure MRI**, *8th International Conference on the Development of Biomedical Engineering*. [DOI](https://doi.org/10.1007/978-3-030-75506-5_66)
